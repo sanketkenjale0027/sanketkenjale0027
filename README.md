@@ -122,7 +122,7 @@ To start my career as a **Data Analyst** where I can apply my analytical, visual
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/sanketkenjale0027">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -133,12 +133,6 @@ To start my career as a **Data Analyst** where I can apply my analytical, visual
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-* **LinkedIn ID:** `sanket-kenjale-11a182407`
-* **LinkedIn Profile:** [Connect with me](https://www.linkedin.com/in/sanket-kenjale-11a182407)
-* **Email:** [sanketkenjale0027@gmail.com](mailto:sanketkenjale0027@gmail.com)
-* **GitHub:** [sanketkenjale0027](https://github.com/sanketkenjale0027)
-* **Location:** Navi Mumbai, Maharashtra, India.
 
 ---
 
