@@ -56,45 +56,18 @@
 
 ### 📊 Power BI Projects
 
-**1. HR Analytics Dashboard**
-* Employee data analysis
-* Workforce distribution
-* Training outcomes
-* Employee status analysis
-
-**2. IPL Analysis Dashboard (2008–2025)**
-* Team performance analysis
-* Player statistics
-* Orange Cap and Purple Cap analysis
-* IPL match insights
+* HR Analytics Dashboard
+* IPL Analysis Dashboard (2008–2025)
 
 ### 📈 Tableau Projects
 
-**1. Road Accident Analysis Dashboard**
-* Accident trends
-* Casualty analysis
-* Road safety insights
-* Data visualization
+* Road Accident Analysis Dashboard
 
 ### 📗 Advanced Excel Projects
 
-**1. Swiggy Sales Analysis Dashboard**
-* Analysis of 197K+ records
-* Monthly sales analysis
-* Daily sales trends
-* Customer insights
-
-**2. UPI Transaction Dashboard**
-* Analysis of 5 lakh+ UPI transactions
-* Transaction trends
-* Payment app analysis
-* Bank-wise transaction analysis
-
-**3. Hospital & Patient Performance Dashboard**
-* Patient admissions analysis
-* Readmissions analysis
-* Gender distribution
-* Hospital performance analysis
+* Swiggy Sales Analysis Dashboard
+* UPI Transaction Dashboard
+* Hospital & Patient Performance Dashboard
 
 ---
 
