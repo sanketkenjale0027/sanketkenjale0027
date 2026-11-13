@@ -95,7 +95,7 @@ To begin my professional career as a **Data Analyst**, utilize my technical and 
 
 - **GitHub:** [Sanket Kenjale](https://github.com/sanketkenjale0027)
 - **LinkedIn:** Add your LinkedIn profile URL
-- **Email:** Add your email address
+- **Email:** sanketkenjale0027@gmail.com
 
 ---
 
