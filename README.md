@@ -4,11 +4,8 @@
 ### Aspiring Data Analyst | Power BI | Tableau | Advanced Excel | SQL | Python
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanket-kenjale-11a182407">
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sanketkenjale0027@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -16,12 +13,12 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **B.Sc. IT Graduate** with **9.25 CGPA**.
+* 🎓 B.Sc. IT Graduate with **9.25 CGPA**.
 * 📊 Completed a **Data Analytics Course**.
-* 💻 Skilled in **Power BI, Tableau, Advanced Excel, Python and SQL**.
-* 📈 Interested in **Data Analysis, Data Visualization and Business Intelligence**.
-* 🚀 Passionate about creating interactive dashboards and generating meaningful insights.
-* 🤝 Open to **Data Analyst Internship and Full-Time Opportunities**.
+* 💻 Skilled in **Power BI, Tableau, Advanced Excel, SQL and Python**.
+* 📈 Interested in Data Analysis, Data Visualization and Business Intelligence.
+* 🚀 Passionate about transforming raw data into meaningful insights.
+* 🤝 Open to Data Analyst Internship and Full-Time Opportunities.
 * 📍 **Location:** Navi Mumbai, Maharashtra, India.
 
 ---
@@ -41,9 +38,10 @@
 ## 💡 Core Competencies
 
 * Data Cleaning and Data Preparation
-* Data Analysis and Exploratory Data Analysis (EDA)
-* Data Visualization and Reporting
+* Data Analysis
+* Data Visualization
 * Interactive Dashboard Development
+* Exploratory Data Analysis (EDA)
 * SQL Queries and Data Management
 * Python for Data Analysis
 * Business Intelligence
@@ -56,27 +54,50 @@
 ### 📊 Power BI Projects
 
 * **HR Analytics Dashboard**
+  * Employee data analysis
+  * Workforce distribution
+  * Training outcomes
+  * Employee status analysis
+
 * **IPL Analysis Dashboard (2008–2025)**
-* **World Cup Results Dashboard**
-* **PhonePe Transaction Analysis Dashboard**
+  * Team performance analysis
+  * Player statistics
+  * Orange Cap and Purple Cap analysis
+  * IPL match insights
 
 ### 📈 Tableau Projects
 
-* **Tableau Data Analysis Dashboard**
+* **Road Accident Analysis Dashboard**
+  * Accident trends
+  * Casualty analysis
+  * Road safety insights
+  * Data visualization
 
 ### 📗 Advanced Excel Projects
 
-* **Excel Data Analysis Dashboard**
+* **Swiggy Sales Analysis Dashboard**
+  * Analysis of 197K+ records
+  * Monthly sales analysis
+  * Daily sales trends
+  * Customer insights
 
-### 🐍 Python Projects
+* **UPI Transaction Dashboard**
+  * Analysis of 5 lakh+ UPI transactions
+  * Transaction trends
+  * Payment app analysis
+  * Bank-wise transaction analysis
 
-* **Python Data Analysis using Jupyter Notebook**
+* **Hospital & Patient Performance Dashboard**
+  * Patient admissions analysis
+  * Readmissions analysis
+  * Gender distribution
+  * Hospital performance analysis
 
 ---
 
 ## 🎯 Career Objective
 
-To start my career as a **Data Analyst** where I can apply my analytical, visualization and problem-solving skills to transform raw data into meaningful insights, create data-driven solutions and continuously grow as a professional.
+To start my career as a Data Analyst where I can apply my analytical, visualization and problem-solving skills to transform raw data into meaningful insights, create data-driven solutions and continuously grow as a professional.
 
 ---
 
@@ -98,10 +119,9 @@ To start my career as a **Data Analyst** where I can apply my analytical, visual
 
 ## 🤝 Connect With Me
 
-* **LinkedIn ID:** `sanket-kenjale-11a182407`
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sanket-kenjale-11a182407)
-* **Email:** [sanketkenjale0027@gmail.com](mailto:sanketkenjale0027@gmail.com)
-* **Location:** Navi Mumbai, Maharashtra, India
+* **GitHub:** [sanketkenjale0027](https://github.com/sanketkenjale0027)
+* **LinkedIn:** Add your LinkedIn profile URL here.
+* **Location:** Navi Mumbai, Maharashtra, India.
 
 ---
 
