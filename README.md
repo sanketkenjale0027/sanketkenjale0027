@@ -17,19 +17,15 @@ I am a B.Sc. IT graduate with a **9.25 CGPA** and have completed a Data Analytic
 
 ### 📌 Power BI Projects
 - HR Analytics Dashboard
-- PhonePe Transaction Analysis
-- FIFA World Cup Analysis
-- World Cup Results Dashboard
-- IPL Analysis Dashboard
+- IPL Analysis Dashboard (2008–2025)
 
 ### 📌 Tableau Projects
-- Tableau Data Visualization Dashboard
+- Road Accident Analysis Dashboard
 
 ### 📌 Advanced Excel Projects
-- Excel Data Analysis Project
-
-### 📌 Python Projects
-- Python Data Analysis using Jupyter Notebook
+- Swiggy Sales Analysis Dashboard
+- UPI Transaction Dashboard
+- Hospital & Patient Performance Dashboard
 
 ## 🤝 Connect With Me
 
