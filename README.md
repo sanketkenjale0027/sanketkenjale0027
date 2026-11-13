@@ -4,8 +4,11 @@
 ### Aspiring Data Analyst | Power BI | Tableau | Advanced Excel | SQL | Python
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/sanket-kenjale-11a182407">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sanketkenjale0027@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -53,51 +56,51 @@
 
 ### 📊 Power BI Projects
 
-* **HR Analytics Dashboard**
-  * Employee data analysis
-  * Workforce distribution
-  * Training outcomes
-  * Employee status analysis
+**1. HR Analytics Dashboard**
+* Employee data analysis
+* Workforce distribution
+* Training outcomes
+* Employee status analysis
 
-* **IPL Analysis Dashboard (2008–2025)**
-  * Team performance analysis
-  * Player statistics
-  * Orange Cap and Purple Cap analysis
-  * IPL match insights
+**2. IPL Analysis Dashboard (2008–2025)**
+* Team performance analysis
+* Player statistics
+* Orange Cap and Purple Cap analysis
+* IPL match insights
 
 ### 📈 Tableau Projects
 
-* **Road Accident Analysis Dashboard**
-  * Accident trends
-  * Casualty analysis
-  * Road safety insights
-  * Data visualization
+**1. Road Accident Analysis Dashboard**
+* Accident trends
+* Casualty analysis
+* Road safety insights
+* Data visualization
 
 ### 📗 Advanced Excel Projects
 
-* **Swiggy Sales Analysis Dashboard**
-  * Analysis of 197K+ records
-  * Monthly sales analysis
-  * Daily sales trends
-  * Customer insights
+**1. Swiggy Sales Analysis Dashboard**
+* Analysis of 197K+ records
+* Monthly sales analysis
+* Daily sales trends
+* Customer insights
 
-* **UPI Transaction Dashboard**
-  * Analysis of 5 lakh+ UPI transactions
-  * Transaction trends
-  * Payment app analysis
-  * Bank-wise transaction analysis
+**2. UPI Transaction Dashboard**
+* Analysis of 5 lakh+ UPI transactions
+* Transaction trends
+* Payment app analysis
+* Bank-wise transaction analysis
 
-* **Hospital & Patient Performance Dashboard**
-  * Patient admissions analysis
-  * Readmissions analysis
-  * Gender distribution
-  * Hospital performance analysis
+**3. Hospital & Patient Performance Dashboard**
+* Patient admissions analysis
+* Readmissions analysis
+* Gender distribution
+* Hospital performance analysis
 
 ---
 
 ## 🎯 Career Objective
 
-To start my career as a Data Analyst where I can apply my analytical, visualization and problem-solving skills to transform raw data into meaningful insights, create data-driven solutions and continuously grow as a professional.
+To start my career as a **Data Analyst** where I can apply my analytical, visualization and problem-solving skills to transform raw data into meaningful insights, create data-driven solutions and continuously grow as a professional.
 
 ---
 
@@ -119,8 +122,22 @@ To start my career as a Data Analyst where I can apply my analytical, visualizat
 
 ## 🤝 Connect With Me
 
+<p align="left">
+  <a href="https://github.com/sanketkenjale0027">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanket-kenjale-11a182407">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sanketkenjale0027@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+* **LinkedIn ID:** `sanket-kenjale-11a182407`
+* **LinkedIn Profile:** [Connect with me](https://www.linkedin.com/in/sanket-kenjale-11a182407)
+* **Email:** [sanketkenjale0027@gmail.com](mailto:sanketkenjale0027@gmail.com)
 * **GitHub:** [sanketkenjale0027](https://github.com/sanketkenjale0027)
-* **LinkedIn:** Add your LinkedIn profile URL here.
 * **Location:** Navi Mumbai, Maharashtra, India.
 
 ---
