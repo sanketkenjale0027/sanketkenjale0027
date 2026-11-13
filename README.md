@@ -36,8 +36,9 @@
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Sanket Kenjale](https://www.linkedin.com/in/sanket-kenjale-11a182407)
-- **Email:** [sanketkenjale0027@gmail.com](mailto:sanketkenjale0027@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanket-kenjale-11a182407)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketkenjale0027@gmail.com)
 
 ---
 
