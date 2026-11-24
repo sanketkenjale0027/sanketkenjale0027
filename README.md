@@ -69,6 +69,9 @@
 * UPI Transaction Dashboard
 * Hospital & Patient Performance Dashboard
 
+### 🐍 Python / Jupyter Notebook Projects
+
+* Blinkit Analysis Dashboard
 ---
 
 ## 🎯 Career Objective
